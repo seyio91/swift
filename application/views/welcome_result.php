@@ -20,7 +20,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </div>
 <div class="container">
 	<div class="row">
-		<p>Thank you for using our services. We've booked your ticket with the followig details</p>
+		<p>Thank you for using our services. We've booked your ticket with the following details changed message</p>
 	</div>
 	<div class="row">
 		<table class="table">
